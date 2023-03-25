@@ -1,0 +1,3 @@
+#islamtaqweembot
+
+BOT_TOKEN = '6171144302:AAE4GgPbZ7nUxKRnYCDqIKDSeNUZIg7ss8k'
